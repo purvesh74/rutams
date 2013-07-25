@@ -1,0 +1,494 @@
+.Menues1
+{
+	font-size: 30px;
+    text-align: center;
+}
+.HeaderAdmin{
+	height:190px;
+	margin-bottom:20px;
+}
+.Ftr
+{
+	width:100%;
+	float:left;
+	height:35px;
+	background-color:#00CCFF;
+	text-align:center;
+	line-height:35px;
+	border-top:1px solid #000;
+	margin-top:30px;
+}
+.Ttext
+{
+	width:70%;
+	height:30px;
+	font-size:14px;
+	margin-left:28px;
+	color:#666;
+	float:left;
+}
+.Tlbl{
+	width:70%;
+	height:auto;
+	font-size:16px;
+	margin-left:28px;
+	float:left;
+}
+.Timg
+{
+	width:220px;
+	height:152px;
+	background-image:url(Img/Timg.png);
+	float:left;
+	margin:18px;
+}
+.Tbox
+{
+	width:255px;
+	float:left;
+	height:233px;
+	border:1px solid #999;
+	border-right:0px;
+	background-color:#FFF;
+	margin-bottom:30px;
+}
+.Team
+{
+	color: #000000;
+    font-size: 22px;
+    height: 30px;
+    margin-top: 585px;
+    width: 100%;
+}
+.Team1
+{
+color: #000000;
+    font-size: 22px;
+    height: 30px;
+    margin-top: 31px;
+    width: 100%;}
+
+.DotLine
+{
+	width:100%;
+	border-bottom:1px dashed #999;
+	float:left;
+	margin-top:20px;
+}
+.Ftext
+{
+	 color: #333333;
+    float: left;
+    font-size: 14px;
+    height: auto;
+    margin-top: 5px;
+    padding-left: 5%;
+    text-align: center;
+    width: 90%;
+}
+.Ftitle
+{
+	width:100%;
+	float:left;
+	height:30px;
+	font-size:20px;
+	text-align:center;
+	margin-top:20px;
+}
+.Fcontiner{
+	width:250px;
+	height:auto;
+	float:left;
+	margin-left: 4px;
+}
+.FBoxImg{
+	width:242px;
+	height:141px;
+	background-image:url(Img/Fchrbox.png);
+	margin-top:4px;
+	margin-left:4px;
+}
+.FBoxImg1{
+	width:242px;
+	height:141px;
+	margin-top:4px;
+	margin-left:4px;
+}
+.FBox
+{
+	width:250px;
+	height:150px;
+	float:left;
+	background-color:#FFF;
+	border-radius:5px;
+	margin-top:20px;
+}
+.Cmt
+{
+	width:18px;
+	height:18px;
+	background-image:url(Img/Comment.png);
+	float:left;
+	margin-left:55px;
+}
+.MidLine
+{
+	width:1000px;
+	float:left;
+	height:8px;
+	background-color:#00CCFF;
+	margin-top:12px;
+	border-radius:3px;
+	margin-left:11px;
+}
+.DotWh {
+    background-image: url("Img/Dot-new.png");
+    background-position: 0 11px;
+    float: right;
+    height: 11px;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 11px;
+}
+.Dots-New
+{
+	float:left;
+	margin-left:311px;
+}
+
+.ArtContent
+{
+	width: auto;
+	height: auto;
+	line-height: 20px;
+	font-size: 14px;
+	color: #003C4B;
+	margin-margin-left: 91px;
+	margin-top: 2px;
+	  padding-left: 78px;
+}
+.ArtTitle
+{
+	color: #000000;
+    font-size: 14px;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 78px;
+    width: auto;
+}
+.ArtImgin
+{
+	float: left;
+	height: 69px;
+	width: 69px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	margin-margin-left: 4px;
+	margin-top: 4px;
+	background-image:url(Img/PreImg.png);
+}
+.ArtImg{
+	float: left;
+	height: 77px;
+	width: auto;
+	background-color: #F0F0F0;
+	border-radius: 5px;
+}
+.ArtItem{
+	width: 332px;
+	height: auto;
+	float:left;
+	margin-bottom:25px;
+}
+.ArtPr{
+	width: 332px;
+	height: 333px;
+	position: absolute;
+	margin-top: 34px;
+}
+.DotNor{
+	background-image:url(Img/Dot.png);
+	background-position:0px  11px;
+	height:11px;
+	width:11px;
+	float:right;
+	margin-right:5px;
+	margin-top:5px;
+}
+.Dot{
+	background-image:url(Img/Dot.png);
+	height:11px;
+	width:11px;
+	float:right;
+	margin-right:5px;
+	margin-top:5px;
+}
+.Dots{
+	width: 50%;
+	float: left;
+	height: 30px;
+	font-size: 18px;
+	line-height: 30px;
+	position: absolute;
+	margin-left: 166px;
+	top: 0px;
+}
+.ArTitle{
+	width: 50%;
+	float: left;
+	height: 30px;
+	font-size: 18px;
+	line-height: 30px;
+	position: absolute;
+	color: #0099CC;
+}
+.Articals
+{
+	width: 332px;
+	float: left;
+	height: 367px;
+	position: absolute;
+	margin-left: 665px;
+	top: 4px;
+}
+.Gllery
+{
+	width: 645px;
+	float: left;
+	height: 367px;
+	position: absolute;
+	top: 4px;
+	margin-left: 5px;
+	border-radius: 5px;
+	box-shadow: inset 0 0 5px 0px #000;
+	background-image:url(Img/Glrimg.jpg);
+}
+.GlrShd{
+	width: 1097px;
+	height: 355px;
+	float: left;
+	background-image: url(Img/GlrShd.png);
+	position: absolute;
+	margin-left: -44px;
+	top: 10px;
+}
+.Glr
+{
+	width: 1009px;
+	position: absolute;
+	height: 376px;
+	background-color: #FFF;
+	border-radius: 5px;
+	margin-left: 6px;
+	top: 185px;
+}
+.MenuItem:hover
+{
+	background-color:#09F;
+	cursor:pointer;
+}
+.MenuItem{
+	width:auto;
+	padding-margin-left:15px;
+	padding-right:15px;
+	padding-left:15px;
+	background-color:#FFF;
+	font-size:18px;
+	line-height:56px;
+	float:left;
+	border-right:1px solid #ccc;
+}
+.HeadMenu{
+	width: 758px;
+	border-radius: 0 5px 5px 0;
+	float: left;
+	height: 56px;
+	background-color: #FFF;
+	position: absolute;
+	margin-left: 259px;
+	top: 90px;	
+}
+.Logo{
+	width: 250px;
+	float: left;
+	height: 113px;
+	position: absolute;
+	margin-left: 6px;
+	top: 64px;
+}
+.Menues
+{
+	color: #000000;
+    float: right;
+    font-size: 17px;
+    margin-right: 14px;
+	 margin-top: 33px;
+}
+.Menues > a
+{
+	color:#000;
+	
+}
+.Menues > a:hover
+{
+	color:#09F;
+	
+}
+.Customer{
+	width: auto;
+	height: auto;
+	font-size: 14px;
+	color: #666;
+	position: absolute;
+	margin-left: 9px;
+	top: 42px;
+}
+.Header
+{
+	float: left;
+    height: 192px;
+    width: 100%;
+}
+.TopLine
+{
+	width:100%;
+	float:left;
+	height:5px;
+	
+}
+.Main
+{	
+	width:100%;
+	float:left;
+	margin-margin-left:228px;
+	position:absolute;
+}
+body
+{
+	background-image:url(Img/BodyBack.png);
+
+	width:100%;
+	background-color:#FFF;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-family:cuprum;
+	font-size:14px;
+}
+.Scaler
+{
+	width:1024px;
+	float:left;
+	height:auto;
+}
+
+.Scaler1
+{
+	float: left;
+    margin-top: -549px;
+    width: 1025px;
+}
+.Center
+{
+	width:1000px;
+	margin:auto;
+}
+.MnShd {
+    bottom: -9px;
+    display: none;
+    float: left;
+    height: 11px;
+    left: 50%;
+    margin-left: -63px;
+    position: absolute;
+    width: 126px;
+}
+.Mn {
+    float: left;
+    height: 41px;
+    margin-bottom: 0;
+    margin-top: 0;
+    position: relative;
+    width: 724px;
+    z-index: 100;
+}
+.InCom {
+    background-color:#FFF;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 6px 0 #000000;
+    display: none;
+    height: auto;
+    left: 100%;
+    margin-left: -5px;
+    margin-top: 0;
+    position: absolute;
+    width: 228px;
+    z-index: 30;
+}
+.Mntop {
+    float: left;
+   
+}
+.Mninr:hover {
+    background-color: #00CCFF;
+    color: #000000;
+    cursor: pointer;
+}
+.Mninr {
+   color: #000000;
+    float: left;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    text-decoration: none;
+    width: 208px;
+}
+.Mnftr {
+    background: none repeat scroll 0 0 #00CCFF;
+    border-radius: 0 0 6px 6px;
+    float: left;
+    height: 10px;
+    position: relative;
+    width: 228px;
+}
+.MnBtm {
+    background: none repeat scroll 0 0 #00CCFF;
+    border-radius: 6px 6px 0 0;
+    float: left;
+    height: 10px;
+    position: relative;
+    width: 228px;
+}
+.Mncon {
+    background-color:#FFF;
+    border-radius: 0 0 6px 6px;
+    box-shadow: 0 0 6px 0 #000000;
+    display: none;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 56px;
+    position: absolute;
+    width: 228px;
+    z-index: 30;
+}
+
+.Mns {
+    color: #000000;
+    float: left;
+    height: 56px;
+    line-height: 56px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+   
+	font-size:18px;
+	border-right:2px solid #ccc;
+}
+.Menubar {
+    border-bottom: 1px solid #D6D6D6;
+    border-top: 1px solid #D6D6D6;
+    float: left;
+    height: 56px;
+    margin-top: 120px;
+    width: 100%;
+}
